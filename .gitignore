@@ -1,0 +1,17 @@
+# Cargo
+/target/
+pkg
+Cargo.lock
+
+# Tailwind
+node_modules/
+pnpm-lock.yaml
+output.css
+
+# Trunk
+dist/
+
+# Apple
+**/.DS_Store
+**/.Icon?
+**/.Icon
